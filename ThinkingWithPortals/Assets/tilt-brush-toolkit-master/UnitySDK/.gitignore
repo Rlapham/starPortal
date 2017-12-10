@@ -1,0 +1,18 @@
+# Standard unity stuff
+/Temp/
+/Obj/
+/Build/
+/Library/
+
+# mono debugging files, automatically created by UnityVS
+*.dll.mdb
+*.dll.mdb.meta
+
+# MonoDevelop and Visual Studio files, automatically created by Unity
+/*.csproj
+/*.unityproj
+/*.user
+*.suo
+/*.sln
+/*.userprefs
+/.vs/
